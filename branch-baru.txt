@@ -1,0 +1,4 @@
+ini adalah file dari branch baru saya
+ini baris kedua di file branch baru
+ini baris ketiga
+baris ke empat

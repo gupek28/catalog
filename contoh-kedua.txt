@@ -1,0 +1,3 @@
+contoh file kedua
+baris kedua
+baris ketiga
